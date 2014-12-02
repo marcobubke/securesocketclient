@@ -1,7 +1,7 @@
 {
     "Name" : "Secure Socket Client",
     "ShortDescription" : "This example uses QSslSocket to demonstrate how to communicate over an encrypted connection, deal with authenticity problems, and display security and certificate information.",
-    "DownloadLocation" : "https://api.github.com/repos/marcobubke/securesocketclient/zipball/master",
+    "DownloadLocation" : "https://api.github.com/repos/marcobubke/securesocketclient/zipball/7ee6f8b14286b4a4a9cf0e4d68bb1610dbbd3bae",
     "Icon" : "network.png",
     "Id" : 9,
     "Tags" : "network tcp server advanced",
